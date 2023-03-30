@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "224941836163",
+    "project_id": "app-agora-meet",
+    "storage_bucket": "app-agora-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224941836163:android:675aa7a9de291b40ba98b6",
+        "android_client_info": {
+          "package_name": "com.example.agora_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224941836163-gk7elsbcrj1klihujj92dv7fdv3e49rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbS1FmU6HNj-72BIpudzr4cnfcDK0RxF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224941836163-gk7elsbcrj1klihujj92dv7fdv3e49rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224941836163:android:65e4a0e2639a3e2bba98b6",
+        "android_client_info": {
+          "package_name": "com.example.agora_meet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224941836163-8bjgb22fhpjg20r3mut1hordeku743tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agora_meet_app",
+            "certificate_hash": "62a97e3514ce7b2fee38d1c247b896e08c270ddf"
+          }
+        },
+        {
+          "client_id": "224941836163-gk7elsbcrj1klihujj92dv7fdv3e49rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbS1FmU6HNj-72BIpudzr4cnfcDK0RxF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224941836163-gk7elsbcrj1klihujj92dv7fdv3e49rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
